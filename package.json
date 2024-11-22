@@ -1,0 +1,23 @@
+{
+  "name": "nothing-less",
+  "version": "1.0.0",
+  "description": "Nothing in this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnu-vardhan56/nothing-less.git"
+  },
+  "keywords": [
+    "nothing",
+    "nocode"
+  ],
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnu-vardhan56/nothing-less/issues"
+  },
+  "homepage": "https://github.com/vishnu-vardhan56/nothing-less#readme"
+}
